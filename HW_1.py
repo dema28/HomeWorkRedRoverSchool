@@ -20,7 +20,8 @@
 # name = input()
 # print(f" Привет меня зовут {name}")
 #
-acgerhvbjytjb
+acgerhvb
+
 
 
 # Создать переменную name, значение которой определяется через ввод
