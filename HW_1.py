@@ -21,6 +21,7 @@ from stringprep import in_table_c9
 # name = input()
 # print(f" Привет меня зовут {name}")
 #
+acgerhvbjytjb
 
 
 # Создать переменную name, значение которой определяется через ввод
